@@ -1,0 +1,7 @@
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\DataAccess\bin\Debug\DataAccess.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\DataAccess\bin\Debug\DataAccess.pdb
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\DataAccess\obj\Debug\DataAccess.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\DataAccess\obj\Debug\DataAccess.pdb

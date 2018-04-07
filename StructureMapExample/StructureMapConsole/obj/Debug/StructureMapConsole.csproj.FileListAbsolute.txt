@@ -1,0 +1,16 @@
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\StructureMapConsole.exe.config
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\StructureMapConsole.exe
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\StructureMapConsole.pdb
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\Business.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\DataAccess.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\StructureMap.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\Business.pdb
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\Business.dll.config
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\DataAccess.pdb
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\DataAccess.dll.config
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\bin\Debug\StructureMap.xml
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\obj\Debug\StructureMapConsole.csprojResolveAssemblyReference.cache
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\obj\Debug\StructureMapConsole.csproj.CoreCompileInputs.cache
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\obj\Debug\StructureMapConsole.csproj.CopyComplete
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\obj\Debug\StructureMapConsole.exe
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\StructureMapConsole\obj\Debug\StructureMapConsole.pdb

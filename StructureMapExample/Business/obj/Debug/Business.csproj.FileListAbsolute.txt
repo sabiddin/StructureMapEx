@@ -1,0 +1,13 @@
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\bin\Debug\Business.dll.config
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\bin\Debug\Business.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\bin\Debug\Business.pdb
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\bin\Debug\DataAccess.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\bin\Debug\DataAccess.pdb
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\bin\Debug\DataAccess.dll.config
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\obj\Debug\Business.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\obj\Debug\Business.pdb
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\bin\Debug\StructureMap.dll
+C:\Source\Repository\sabiddin\ImplicitOperator\StructureMapExample\Business\bin\Debug\StructureMap.xml
